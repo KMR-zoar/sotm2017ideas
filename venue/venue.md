@@ -32,6 +32,6 @@ Please get on a tourist bus in front of the Aizuwakamatsu station called "Machin
 Clockwise bus called "Akabe(あかべぇ)", Counterclockwise bus called "High Coller-san(ハイカラさん)", Get off at the bus stop in "Front of the cultural center(文化センター前)", It takes about 25 minutes even if you board either.
 
 ### Taxi
-
-- タクシー会社の
-- 電話番号を列挙
+-Aizuwakamatsu station taxi stand - Aizu-Wakamatsu City Culture Center(10 mins)
+-  AizuTaxi(あいづタクシー) phone: +81-242-38-1234
+-  WakamatsuTaxi(若松タクシー) phone: +81-242-26-6655
