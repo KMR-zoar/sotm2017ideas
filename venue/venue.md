@@ -1,11 +1,11 @@
 # Venue
 ## Conference &ndash; August 18 - 20
 ### Aizu Wakamatsu City Culture Center
-Aizuwakamatsu City Culture Center ‐ 14-52, Jotomachi
+Aizuwakamatsu City Culture Center ‐ 14-52, Jotomachi, Aizuwakamatsu, Fukushima, Japan
 The Aizuwakamatsu City Culture Center is a facility built for various cultural activities.
 The facility is built on the territory of Tsurugajo castle(As know as Aizuwakamatsu castle) which is a symbol of Fukushima Pref.
 The castle was the stage of the Boshin war, one of the incident in Japanese history.
-Immortal castle that endured the fierce attack for a month, and that has sad stories of young samurai team.
+Immortal castle that endured the fierce attack for a month, and that has sad stories of young samurai team(as know as Byakkotai).
 [City Culture Center Web](http://aizu-bunka.jp/bunse/)
 
 ## Public transport
@@ -20,7 +20,10 @@ Immortal castle that endured the fierce attack for a month, and that has sad sto
 
 ### Airtraval (From Regional Airports)
 
-- Fukushima Airport - (Transit bus: 40 mins) - Koriyama Station - (Ban-etsu West Line: 1 hr 10 mins) - Aizuwakamatsu Koriyama Station - (Highway bus: 1 hr 5 mins) - Aizuwakamatsu Station
+- Fukushima Airport - (Transit bus: 40 mins) - Koriyama Station - (Ban-etsu West Line: 1 hr 10 mins) - Aizuwakamatsu
+
+Koriyama Station - (Highway bus: 1 hr 5 mins) - Aizuwakamatsu Station
+
 - Niigata Airport - (Transit bus: 30 mins) - Niigata Station - (Highway bus: 1 hr 50 mins) - Aizuwakamatsu Station
 - Sendai Airport - (Airport Railway &amp; Tohoku Line: 17 mins) - Sendai Station, East Exit - (Highway bus: 2 hrs 25 mins) - Aizuwakamatsu Station
 
