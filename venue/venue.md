@@ -44,9 +44,9 @@ Introduce accommodation near the venue or Aizuwakamatsu station.
 
 ### Airtraval (From Regional Airports)
 
-- Fukushima Airport - (Transit bus: 40 mins) - Koriyama Station - (Ban-etsu West Line: 1 hr 10 mins) - Aizuwakamatsu
+- Fukushima Airport - (Transit bus: 40 mins) - Koriyama Station - (Ban-etsu West Line: 1 hr 10 mins) - Aizuwakamatsu Station
 
-Koriyama Station - (Highway bus: 1 hr 5 mins) - Aizuwakamatsu Station
+Or Koriyama Station - (Highway bus: 1 hr 5 mins) - Aizuwakamatsu Station
 
 - Niigata Airport - (Transit bus: 30 mins) - Niigata Station - (Highway bus: 1 hr 50 mins) - Aizuwakamatsu Station
 - Sendai Airport - (Airport Railway &amp; Tohoku Line: 17 mins) - Sendai Station, East Exit - (Highway bus: 2 hrs 25 mins) - Aizuwakamatsu Station
