@@ -6,7 +6,31 @@ The Aizuwakamatsu City Culture Center is a facility built for various cultural a
 The facility is built on the territory of Tsurugajo castle(As know as Aizuwakamatsu castle) which is a symbol of Fukushima Pref.
 The castle was the stage of the Boshin war, one of the incident in Japanese history.
 Immortal castle that endured the fierce attack for a month, and that has sad stories of young samurai team(as know as Byakkotai).
+
 [City Culture Center Web](http://aizu-bunka.jp/bunse/)
+
+## Accommodations
+Introduce accommodation near the venue or Aizuwakamatsu station.
+
+### [Hotel Takakoh](http://www.takakoh.com/)(ホテルタカコー)
+- 〒965-0872 3-35, Higashisakaemachi, Aizuwakamatsu, Fukushima
+- Phone： +81-242-27-7117
+-  [Map](https://www.openstreetmap.org/node/3705945507)
+
+### [Ekimae Fuji Grand Hotel](http://www.fujigrandhotel.co.jp/)(駅前フジグランドホテル)
+- 〒965-0041 5-25, Ekimaemachi, Aizuwakamatsu, Fukushima
+- Phone： +81-242-24-1111
+- [Map](https://www.openstreetmap.org/node/1345581847)
+
+### [Hotel New Palace](http://www.npls.co.jp/)(ニューパレス)
+- 〒965-0878 2-78, Nakamachi, Aizuwakamatsu Fukushima
+- Phone： 0120-152-804
+- [Map](https://www.openstreetmap.org/node/3725638235)
+
+### [Century Hotel](http://www.aizu-centuryhotel.com/)(センチュリーホテル)
+- 〒965-0034 8-30, Uwamachi, Aizuwakamatsu, Fukushima
+- Phone： +81-242-24-1900
+- [Map](https://www.openstreetmap.org/way/219733616)
 
 ## Public transport
 ### Train
