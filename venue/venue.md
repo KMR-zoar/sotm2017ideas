@@ -24,7 +24,7 @@ Introduce accommodation near the venue or Aizuwakamatsu station.
 
 ### [Hotel New Palace](http://www.npls.co.jp/)(ニューパレス)
 - 〒965-0878 2-78, Nakamachi, Aizuwakamatsu Fukushima
-- Phone： 0120-152-804
+- Phone： +81-242-28-2804
 - [Map](https://www.openstreetmap.org/node/3725638235)
 
 ### [Century Hotel](http://www.aizu-centuryhotel.com/)(センチュリーホテル)
